@@ -1,2 +1,2 @@
 # its-a-lock
-data analytics / ML - nba betting tool
+data analytics / ML - nba stats tool
