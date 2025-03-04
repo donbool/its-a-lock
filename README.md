@@ -1,6 +1,6 @@
-# it's a lock
+# its-a-lock
 
-a **data-driven sports viewer tool** designed to identify good lines using data analytics, ML, and sportsbook data. prolly for prizepicks
+**data-driven nba viewer tool** designed to identify good nba lines using data analytics, ML, and sportsbook data. prolly for prizepicks
 
 ## features
 
